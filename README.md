@@ -38,8 +38,8 @@ I will help to install the program.
 
 
 ## Images
-![Telegram Message Bot](https://github.com/kthenurseone/telegram_group_copier/blob/main/1.png?raw=true)
-![Telegram Message Bot](https://github.com/kthenurseone/telegram_group_copier/blob/main/2.png?raw=true)
+![telegram_group_copier](https://github.com/kthenurseone/telegram_group_copier/blob/main/1.png?raw=true)
+![telegram_group_copier](https://github.com/kthenurseone/telegram_group_copier/blob/main/2.png?raw=true)
 
 
 
