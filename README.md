@@ -26,6 +26,7 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 - Copy all kind of messages.
 - Filter messages before sending.
 - Copy user's detail (first name, last name, profile picture)
+- Multiple groups are supported (for listening and sending both ! )
 - Most professional group faker ever.
 
 
