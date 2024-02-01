@@ -18,7 +18,7 @@
 
 ## About
 This program copies a group totally the same , it can copy user's first names and last names , their profile pictures.
-**Most professional group faker ever.**
+**Most professional group faker ever.** (AKA Group Mirroring)
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
