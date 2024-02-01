@@ -37,6 +37,11 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 3) That's all you can use it.
 I will help to install the program.
 
+## Updates
+1- You can filter bot's messages by adding their username into the FILTER_BOTS under the settings.ini file. (01.02.2024)
+2- You can select sticker replacement which means you can send original stickers from group or you can send your own stickers.(01.02.2024)
+
+
 
 ## Images
 ![telegram_group_copier](https://github.com/kthenurseone/telegram_group_copier/blob/main/1.png?raw=true)
